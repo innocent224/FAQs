@@ -17,5 +17,4 @@ acc.forEach(btn => {
     }
 })
 
-
 document.querySelector('#defaultOpen').click();
